@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.AssemblyInfo.cs
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\bin\Debug\netstandard2.1\Galpon.App.Persistencia.deps.json
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\bin\Debug\netstandard2.1\Galpon.App.Persistencia.dll
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\bin\Debug\netstandard2.1\Galpon.App.Persistencia.pdb
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\bin\Debug\netstandard2.1\Galpon.App.Dominio.dll
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\bin\Debug\netstandard2.1\Galpon.App.Dominio.pdb
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.csproj.CopyComplete
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.dll
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.pdb

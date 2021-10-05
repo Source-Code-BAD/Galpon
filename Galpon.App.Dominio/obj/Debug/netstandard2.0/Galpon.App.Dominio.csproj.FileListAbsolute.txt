@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Dominio\bin\Debug\netstandard2.0\Galpon.App.Dominio.deps.json
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Dominio\bin\Debug\netstandard2.0\Galpon.App.Dominio.dll
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Dominio\bin\Debug\netstandard2.0\Galpon.App.Dominio.pdb
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.AssemblyInfo.cs
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.dll
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.pdb
