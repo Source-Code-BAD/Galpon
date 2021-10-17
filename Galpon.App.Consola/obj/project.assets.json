@@ -5791,6 +5791,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Galpon.App.Dominio >= 1.0.0",
       "Galpon.App.Persistencia >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0"
     ]
@@ -5819,6 +5820,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
+            "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Dominio\\Galpon.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Dominio\\Galpon.App.Dominio.csproj"
+            },
             "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Persistencia\\Galpon.App.Persistencia.csproj": {
               "projectPath": "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Persistencia\\Galpon.App.Persistencia.csproj"
             }
@@ -5856,7 +5860,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6,12 +6,12 @@ namespace Galpon.App.Dominio {
 
         // Identificador único de cada persona
         public int id { get; set; }
-        public User user_id { get; set; }
+        public User user { get; set; }
         public string complete_name { get; set; }
         public Gender gender { get; set; }
-        public TypeDoc id_type_doc { get; set; }
+        public TypeDoc type_doc { get; set; }
         public string number_doc { get; set; }
-        public Rol rol_id { get; set; }
+        public Rol rol { get; set; }
         public string phone { get; set; }
         public string address { get; set; }
         public string email { get; set; }

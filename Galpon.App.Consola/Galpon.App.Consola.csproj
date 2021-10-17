@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Galpon.App.Persistencia\Galpon.App.Persistencia.csproj" />
+    <ProjectReference Include="..\Galpon.App.Dominio\Galpon.App.Dominio.csproj" />
   </ItemGroup>
 
 </Project>

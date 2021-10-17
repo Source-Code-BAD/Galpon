@@ -7,8 +7,8 @@ namespace Galpon.App.Dominio {
         // Identificador único de cada persona
        
         public int id { get; set; }
-        public Shed shed_id { get; set; }
-        public Employer employer_id { get; set; }
+        public Shed shed { get; set; }
+        public Employer employer { get; set; }
         public int temperature { get; set; }
         public int water { get; set; }
         public string food { get; set; }

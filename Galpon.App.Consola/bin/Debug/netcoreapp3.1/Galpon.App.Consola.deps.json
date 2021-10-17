@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Galpon.App.Consola/1.0.0": {
         "dependencies": {
+          "Galpon.App.Dominio": "1.0.0",
           "Galpon.App.Persistencia": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "5.0.0"
         },
