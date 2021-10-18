@@ -7,3 +7,12 @@ C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Domi
 C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.dll
 C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.pdb
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Dominio\bin\Debug\netstandard2.0\Galpon.App.Dominio.deps.json
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Dominio\bin\Debug\netstandard2.0\Galpon.App.Dominio.dll
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Dominio\bin\Debug\netstandard2.0\Galpon.App.Dominio.pdb
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.csprojAssemblyReference.cache
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.AssemblyInfo.cs
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.dll
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Dominio\obj\Debug\netstandard2.0\Galpon.App.Dominio.pdb

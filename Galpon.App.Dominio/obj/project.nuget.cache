@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1zQM976TT3f9Hzu99MKsZ5aeruTZcozMPcksvO3U1X59sxWPk6CXf4sjIUCOmMpuouy1s03mdb24qv+3vrkqOQ==",
+  "dgSpecHash": "Tw64tOclAYWXzwXwgB9mUuaD+XyOqNRd+xeoWDpp6vXOl7oQqmsPCIw4p3Wv0UW3OuGbmk84BCOp32Q9MvtBwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Dominio\\Galpon.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\dilber.casallas\\OneDrive - POLICIA NACIONAL DE COLOMBIA\\MISION TIC\\CORTE 3\\DESARROLLO DE SOFTWARE\\REPOSITORIO\\Galpon\\Galpon.App.Dominio\\Galpon.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Asus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\dilber.casallas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dilber.casallas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

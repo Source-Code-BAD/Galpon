@@ -7263,19 +7263,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\dilber.casallas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Persistencia\\Galpon.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\dilber.casallas\\OneDrive - POLICIA NACIONAL DE COLOMBIA\\MISION TIC\\CORTE 3\\DESARROLLO DE SOFTWARE\\REPOSITORIO\\Galpon\\Galpon.App.Persistencia\\Galpon.App.Persistencia.csproj",
       "projectName": "Galpon.App.Persistencia",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Persistencia\\Galpon.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Persistencia\\obj\\",
+      "projectPath": "C:\\Users\\dilber.casallas\\OneDrive - POLICIA NACIONAL DE COLOMBIA\\MISION TIC\\CORTE 3\\DESARROLLO DE SOFTWARE\\REPOSITORIO\\Galpon\\Galpon.App.Persistencia\\Galpon.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\dilber.casallas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dilber.casallas\\OneDrive - POLICIA NACIONAL DE COLOMBIA\\MISION TIC\\CORTE 3\\DESARROLLO DE SOFTWARE\\REPOSITORIO\\Galpon\\Galpon.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dilber.casallas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7286,8 +7286,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Dominio\\Galpon.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Dominio\\Galpon.App.Dominio.csproj"
+            "C:\\Users\\dilber.casallas\\OneDrive - POLICIA NACIONAL DE COLOMBIA\\MISION TIC\\CORTE 3\\DESARROLLO DE SOFTWARE\\REPOSITORIO\\Galpon\\Galpon.App.Dominio\\Galpon.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\dilber.casallas\\OneDrive - POLICIA NACIONAL DE COLOMBIA\\MISION TIC\\CORTE 3\\DESARROLLO DE SOFTWARE\\REPOSITORIO\\Galpon\\Galpon.App.Dominio\\Galpon.App.Dominio.csproj"
             }
           }
         }
@@ -7337,7 +7337,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
       }
     }
   }
