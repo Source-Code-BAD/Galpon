@@ -11,7 +11,7 @@ namespace Galpon.App.Consola
         {
             Console.WriteLine("Hello World Framework!");
             // AddUser();
-            // SearchUser(1);
+            DeleteUser(1);
         }
 
         private static void AddUser()
@@ -29,6 +29,11 @@ namespace Galpon.App.Consola
         private static void SearchUser(int idUser) {
             var user = _repoUser.GetUser(idUser);
             Console.WriteLine(user.user + " " + user.pass);
+        }
+
+            private static void DeleteUser(int idUser) {
+            _repoUser.DeleteUser(idUser);
+            Console.WriteLine("si borro ");
         }
     }
 }

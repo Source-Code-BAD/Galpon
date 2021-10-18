@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Frontend\\Galpon.App.Frontend.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Frontend\\Galpon.App.Frontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Frontend\\Galpon.App.Frontend.csproj",
+        "projectName": "Galpon.App.Frontend",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Frontend\\Galpon.App.Frontend.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\otro\\Dev\\MinTic\\Proyecto galpon\\Galpon.App\\Galpon.App.Frontend\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
