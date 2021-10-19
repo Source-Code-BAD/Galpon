@@ -56,6 +56,7 @@ namespace Galpon.App.Persistencia {
 
                 userSearch.user = user.user;
                 userSearch.pass = user.pass;
+                userSearch.updated_date = user.updated_date;
 
                 _appContext.SaveChanges();
             }

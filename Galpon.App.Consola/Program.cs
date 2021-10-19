@@ -10,18 +10,18 @@ namespace Galpon.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World Framework!");
-            // AddUser();
-            DeleteUser(1);
+            AddUser();
+            // DeleteUser(1);
         }
 
         private static void AddUser()
         {
             var user = new User
             {
-                user = "admin",
+                user = "nicolay",
                 pass = "1234",
                 created_date = DateTime.Now,
-                updated_date = DateTime.Now
+                updated_date = DateTime.Now,
             };
             _repoUser.AddUser(user);
         }

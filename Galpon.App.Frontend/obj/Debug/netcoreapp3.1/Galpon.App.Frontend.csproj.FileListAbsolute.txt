@@ -35,3 +35,4 @@ C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Fron
 C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Frontend\obj\Debug\netcoreapp3.1\Galpon.App.Frontend.pdb
 C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Frontend\obj\Debug\netcoreapp3.1\Galpon.App.Frontend.genruntimeconfig.cache
 C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Frontend\obj\Debug\netcoreapp3.1\Galpon.App.Frontend.csproj.CopyComplete
+C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Auxiliary\Shed\ListShed.cshtml.g.cs
