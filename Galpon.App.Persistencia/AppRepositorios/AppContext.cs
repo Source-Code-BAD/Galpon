@@ -18,6 +18,10 @@ namespace Galpon.App.Persistencia {
             if ( !optionsBuilder.IsConfigured ) {
                 optionsBuilder
                 .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = Galpon");
+
+                /// <summary>
+                /// .UseSqlServer("Data Source = DIRAF-TELEM15\\SQLEXPRESS; Initial Catalog = Galpon; TRUSTED_CONNECTION = TRUE");
+                /// </summary>
             }
 
         }

@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Galpon.App.Persistencia.Migrations
 {
     [DbContext(typeof(AppContext))]
-    [Migration("20211017151755_Entidades")]
-    partial class Entidades
+    [Migration("20211018203630_Init")]
+    partial class Init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

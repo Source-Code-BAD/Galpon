@@ -10,3 +10,15 @@ C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Pers
 C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.csproj.CopyComplete
 C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.dll
 C:\Users\Asus\Desktop\otro\Dev\MinTic\Proyecto galpon\Galpon.App\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.pdb
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.AssemblyInfo.cs
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.dll
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.pdb
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Persistencia\bin\Debug\netstandard2.1\Galpon.App.Persistencia.deps.json
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Persistencia\bin\Debug\netstandard2.1\Galpon.App.Persistencia.dll
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Persistencia\bin\Debug\netstandard2.1\Galpon.App.Persistencia.pdb
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Persistencia\bin\Debug\netstandard2.1\Galpon.App.Dominio.dll
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Persistencia\bin\Debug\netstandard2.1\Galpon.App.Dominio.pdb
+C:\Users\dilber.casallas\OneDrive - POLICIA NACIONAL DE COLOMBIA\MISION TIC\CORTE 3\DESARROLLO DE SOFTWARE\REPOSITORIO\Galpon\Galpon.App.Persistencia\obj\Debug\netstandard2.1\Galpon.App.Persistencia.csproj.CopyComplete

@@ -45,7 +45,7 @@ namespace Galpon.App.Persistencia {
 
         Employer IRepositoryEmployer.GetEmployer(int idUser) {
 
-            return _appContext.Employers.FirstOrDefault(u => u.id==idUser);
+            return _appContext.Employers.FirstOrDefault(e => e.id==idUser);
 
         }
 
